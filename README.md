@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00C897;">Abdalwaly</span> 🇾🇪</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00C897;">Abdullah AL_Emad</span> 🇾🇪</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00C897&center=true&vCenter=true&width=500&lines=💙+Flutter+Developer;🔥+Firebase+%26+GetX+Enthusiast;🎯+Building+Smart+and+Useful+Apps" alt="Typing SVG" />
